@@ -12,4 +12,4 @@
 
 **Progress**: Looked up Javascript 30 and tried to figure out some of the problems.
 
-**Link to work:** [My Github pagge](https://github.com/TonyNyagah)
+**Link to work:** [My Github page](https://github.com/TonyNyagah)
