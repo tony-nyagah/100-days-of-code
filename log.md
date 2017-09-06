@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 6th, 2017 
+### Day 0: September 6th, 2017 
 
 **Today's Progress**: Did some of the challenges over on PracticePython.
 
