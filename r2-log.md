@@ -35,3 +35,13 @@ The log of my #100DaysOfCode challenge. Started on [August 31, Thursday, 2023].
 **Link to work:** 
 * [Exercism Solution](https://exercism.org/tracks/go/exercises/booking-up-for-beauty/solutions/Nyagah).
 * [My CodeMarch Repo](https://github.com/tony-nyagah/my-codemarch)
+
+### Day 5: September 7th, 2023
+
+**Today's Progress**: Finished the day 6 and 7 projects of the September 2023 CodeMarch challenge and started working on the map challenge using Go on Exercism.
+
+**Thoughts:** Learning HTML structure before going into the harder stuff like React is important. Also Go seems like a pretty easy language to learn. Guess it's because I have experience in other languages.
+
+**Link to work:**
+* [Exercism Solution](https://exercism.org/tracks/go/exercises/gross-store/solutions/Nyagah).
+* [My CodeMarch Repo](https://github.com/tony-nyagah/my-codemarch)
